@@ -25,7 +25,7 @@ Welcome to the **Jurassic Park Apex Predators** iOS app! Dive into the thrilling
 
 | Dinosaur List | Dinosaur Details | Map View |
 |---------------|------------------|----------|
-| ![Dinosaur List](images/1.png) | ![Dinosaur Details](images/2.png) | ![Map View](images/3.png) 
+| ![Dinosaur List](images/1i.png) | ![Dinosaur Details](images/2i.png) | ![Map View](images/3i.png) 
 ## Installation
 
 1. Clone the repository:
